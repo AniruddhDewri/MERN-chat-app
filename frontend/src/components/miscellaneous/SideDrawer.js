@@ -131,7 +131,7 @@ const SideDrawer = () => {
           </Button>
         </Tooltip>
         <Text fontSize="2xl" fontFamily="Work sans">
-          Talker
+          BlinkChat
         </Text>
         <div>
           <Menu>
