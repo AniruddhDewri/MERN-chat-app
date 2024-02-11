@@ -33,7 +33,7 @@ const HomePage = () => {
         borderWidth="1px"
       >
         <Text fontSize="4xl" fontFamily="Work sans" color="black">
-          Talker
+          BlinkChat
         </Text>
       </Box>
       <Box
